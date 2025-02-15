@@ -28,3 +28,16 @@ The script continuously sends spoofed ARP packets to a target device and the gat
 ```bash
 git clone https://github.com/yourusername/arp-spoofer.git
 cd arp-spoofer
+```
+## 🚀 Usage    
+```bash
+sudo python3 arp_spoofer.py <target_ip> <gateway_ip>
+```
+### Example:  
+```bash
+sudo python3 arp_spoofer.py 192.168.1.108 192.168.1.1
+```
+## 📝 License  
+This project is licensed under the **MIT License**.  
+
+---
