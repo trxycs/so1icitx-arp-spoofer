@@ -26,7 +26,7 @@ The script continuously sends spoofed ARP packets to a target device and the gat
 
 ## 📚 Installation
 ```bash
-git clone https://github.com/yourusername/arp-spoofer.git
+git clone https://github.com/trxycs/so1icitx-arp-spoofer.git
 cd arp-spoofer
 ```
 ## 🚀 Usage    
